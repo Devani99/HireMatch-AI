@@ -24,7 +24,7 @@ A professional AI-powered recruitment screening tool built with Python and Strea
 | Component        | Technology                    |
 |-----------------|-------------------------------|
 | Interface        | Streamlit                     |
-| AI Provider      | Google Gemini (gemini-2.0-flash) |
+| AI Provider      | Google Gemini (gemini-3.5-flash-lite) |
 | PDF Extraction   | pypdf                         |
 | Data Validation  | Pydantic v2                   |
 | Language         | Python 3.10+                  |
